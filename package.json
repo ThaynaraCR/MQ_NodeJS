@@ -1,0 +1,25 @@
+{
+  "name": "mq_nodejs",
+  "version": "1.0.0",
+  "description": "Exmplo simples de envio e consumo de mensageria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThaynaraCR/MQ_NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThaynaraCR/MQ_NodeJS/issues"
+  },
+  "homepage": "https://github.com/ThaynaraCR/MQ_NodeJS#readme",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "install": "^0.13.0",
+    "npm": "^7.24.1"
+  }
+}
